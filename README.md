@@ -68,7 +68,7 @@ The project also compares:
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- 
+  
 ## Future Improvements
 - Use Deep Learning models
 - Real-time intrusion detection
